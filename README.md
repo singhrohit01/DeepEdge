@@ -7,28 +7,6 @@ Models will be updated by `Srujana Malisetti` (below is the current models as o
  - `PyTorch`: MobileNet V2 (v1 is trying), Densenet161, SqueezenetV1, AlexNet, ResNet 18, GoogleNet, ShuffleNet
 
 
-| No. | Member | Combination | TensorFlow (TF) <BR> Keras | PyTorch (PT) | MxNet (MN) | TensorFlowLite (TFL) | MobileNet V1 | MobileNet V2 | Squeezenet | ShuffleNet | ResNet 18 | ResNet 50 | DenseNet 161 | Inception v3 | VGG 16 | GoogleNet | AlexNet |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1  | Akanksha,<BR>Piyush| Raspberry Pi4 | v1.14 <BR>v2.3.1 | v1.4 | v2.0 | - | TF(w/ Keras),MN |TF(w/ Keras),PT, MN  | TF(w/ Keras), PT,MN |TF(w/ Keras), PT |TF(w/ Keras), PT,MN | TF(w /Keras), PT, MN |TF(w/ Keras), PT,MN | TF(w/ Keras), MN |TF(w/ Keras),PT,MN |PT |TF(w/ Keras), PT,MN|
-| 2  | | ~~Accelerator~~ |- | - | - | v2.1.0 | | | | | | | | | | | |
-| 3  | Akanksha | Atomic Pi | v1.5 <BR>v2.2.0 | v1.4 | v1.1 | | TF(w/ Keras), MN | TF(w/ Keras), PT | TF(w/ Keras)PT, MN |TF(w/ Keras, PT |TF(w/ Keras), PT, MN | TF(w/ Keras), PT, MN | TF(w/ Keras),PT, MN | TF(w/ Keras), MN | PT | PT | TF(w/ Keras)PT, MN |
-| 4  | Srujana,<BR>Rohit | Odroid N2 | v1.15 |v1.4 | v1.6 | | | || |PT | | | | | |PT |
-| 5  | Srujana | Odroid C2 | | | | | | | | | | | | | | | |
-| 6  | Piyush | DevBoard | - | - | - | v2.1.0 | | | | | | | | | | | |
-| 7  | Piyush | Raspberry Pi + Accelerator | - | - | - | v2.1.0 | | | | | | | | | | | |
-| 8  | Akansha | Atomic Pi + Accelerator | - | - | - | v2.1.0 | TFL | | | | | | | | | | | |
-| 9  | Srujana | Odroid N2 + Accelerator | - | - | - | v2.1.0 | | | | | | | | | | | | |
-| 10 | Srujana | Odroid C2 + Accelerator | - | - | - | v2.1.0 | | | | | | | | | | | | |
-| 11 | Akanksha | Jetson Nano |v1.15 <BR> v2.3.1 |v1.4 |v1.6 | |TF(w/ Keras),MN|TF(w/ Keras),PT, MN |TF(w/Keras),PT, MN |PT |TF(w/ Keras), PT,MN |TF(w/ Keras),PT,MN|TF(w/ Keras),PT,MN |TF(w/ Keras),MN |PT,MN | PT| PT,MN| |
-| 12 | TBD | Jetson TX2 | | | | | | | | | | | | | | | | |
-
-Baselines - **Models need to be updated**
-| No. | Member | Combination | TensorFlow | PyTorch | MxNet | TensorFlowLite | MobileNet | ColorNet | ResNet | SqueezeNet |
-| --- | ---| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1  | | PC/Laptop | | | | | | | | |
-| 2  | | PC with GPU (RTX 2080Ti or 2070) | | | | | | | | |
-| 3  | | PC with TPU Accelerator | | | | | | | | |
-
 Device Specifications
 | Device | OS | CPU | MEM | GPU/Accelerator | Storage | Qty | Memo | 
 | --- | --- | --- | --- | --- | --- | --- | --- |

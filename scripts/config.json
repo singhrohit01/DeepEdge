@@ -1,0 +1,26 @@
+{
+    "device_name": "Atomic Pi",
+    "db_provider": "cloud",
+    "credentials" : {
+        "database" : {
+            "cloud" : {
+                "host" : "172.22.85.19",
+                "username" : "EdgeTeam",
+                "password" : "EdgeTeam12#$%",
+                "db" : "EdgeTeam"
+            },
+            "localhost" : {
+                "host" : "localhost",
+                "username" : "root",
+                "password" : "root",
+                "db" : "deep_edge"   
+            }
+        }
+    },
+    "workloads": [
+        {
+            "file": "wf_mobnet_tflite_imgclass.py",
+            "batch_size" : 1
+        }
+    ]
+}

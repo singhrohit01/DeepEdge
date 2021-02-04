@@ -1,0 +1,12 @@
+[
+    {
+        "name": "ImageClassification",
+        "version": "1.0",
+        "description": "Used for image classification"
+    },
+    {
+        "name": "ImageNet",
+        "version": "1.0",
+        "description": "Used for image classification"
+    }
+]

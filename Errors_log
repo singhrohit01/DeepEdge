@@ -1,0 +1,10 @@
+******************
+This file includes errors we faced during implementation and solutions if we find any.
+******************
+
+Mobile:
+OpenCV - Library version issue. Did not resolve even when new versions are used in Android studio.
+Caffe with Alexnet, CaffeNet - Issue in accessing to Lib path. Even the lib is present in the same path as the error shows,the code is not identifying it.
+Analyzed and tried to provide the lib in all possible default paths but still not accessible.
+
+Atomic Pi: Latest version of tensorflow is not deployable due to out of memory issue. Used Tensorflow 1.5 version as per analysis and mentions on few blogs.

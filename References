@@ -1,0 +1,33 @@
+Reference Links:
+
+Caffe: Installation link for different devices.
+http://caffe.berkeleyvision.org/installation.html#compilation
+
+Alexnet:
+https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet
+
+
+Mobilenet
+https://github.com/tensorflow/models.git
+
+Imagenet dataset
+
+
+Mobile:
+Caffe: https://github.com/solrex/caffe-mobile
+TensorFlowLite: https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
+OpenCV: https://docs.opencv.org/master/d0/d6c/tutorial_dnn_android.html
+Energy consumption measurement: https://www.theandroidsoul.com/top-battery-monitoring-apps-on-the-play-store-that-do-not-require-root-access/
+GSam Battery Monitor includes installing https://forum.xda-developers.com/showthread.php?t=2317790 and grants permission to Battery_stats
+
+EC2:
+
+Laptop:
+Caffe->https://github.com/BVLC/caffe/tree/windows
+TensorFlow GPU->https://www.tensorflow.org/install/gpu
+OpenCV-> Open CV can be installed in the Caffe Framework.
+Tensorflow Object Detection API->https://github.com/tensorflow/models/tree/master/research/object_detection.
+
+
+Docker:
+Caffe: https://hub.docker.com/r/bvlc/caffe

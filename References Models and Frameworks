@@ -1,0 +1,42 @@
+*******Devices :
+1.Atomic Pi
+2.Raspberry Pi 4 Module B
+3. Odroid-XU4
+4.Jetson Nano
+5. Jetson TX2
+*******Frameworks: 
+1.Tensorflow,
+2.Pytorch and 
+3.MxNet
+*******Applications: 
+1. Computer Vision (http://yann.lecun.com/exdb/mnist/ -dataset)
+https://github.com/ik2sb/deeplearning-models
+a. MobileNet
+b. YOLO
+c. SqueezeNet
+d. ColoreNet
+e. ImageNet
+f. DenseNet(https://github.com/ik2sb/deeplearning-models)
+
+2. Natural Language Processing:
+a. Google’s BERT
+https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/
+b. Pytext
+c. EAST
+chttps://github.com/argman/EAST
+d. espnet (modelzoo)
+e. waveglow (modelzoo)
+f. Flair (https://github.com/flairNLP/flair)
+
+3. Speech to text Recognition
+a. Deep Speech (http://www.openslr.org/11 --dataset)
+b. Wavenet
+c. Voiceloop
+d. speech
+e. mxnet-audio
+f. TextToSpeech
+
+Devices(5) * Frameworks(3) * applications(3) * Models(18) = 270
+
+
+

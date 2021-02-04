@@ -1,0 +1,10 @@
+[
+    {
+        "name": "TensorFlow",
+        "version": "1.0"
+    },
+    {
+        "name": "Pytorch",
+        "version": "1.0"
+    }
+]

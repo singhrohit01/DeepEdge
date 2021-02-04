@@ -1,0 +1,17 @@
+[
+    {
+        "name": "ApexNet",
+        "version": "1.0",
+        "size_in_MB": "500"
+    },
+    {
+        "name": "MobileNet",
+        "version": "1.0",
+        "size_in_MB": "500"
+    },
+    {
+        "name": "SqueezeNet",
+        "version": "1.0",
+        "size_in_MB": "50"
+    }
+]
